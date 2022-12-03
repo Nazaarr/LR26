@@ -18,6 +18,6 @@
 
 Рисунок 16.3 - Окно Game  
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0Xb9fe.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0XfGu3.png)  
 
 Рисунок 16.4 - Окно Inspector объекта Player 
